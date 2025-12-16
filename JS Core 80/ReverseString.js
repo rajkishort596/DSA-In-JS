@@ -12,7 +12,7 @@
     2) Approach: Brute Force Approach
       1. Create a new array to hold reversed characters
       2. Iterate original array from end to start, filling new array
-        3. Copy reversed array back to original array
+      3. Copy reversed array back to original array
     Time Complexity: O(n)
     Space Complexity: O(n)
 */
